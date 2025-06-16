@@ -1,12 +1,49 @@
-# React + Vite
+# EchoRoom
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A real-time chat app built with the MERN stack (MongoDB, Express, React, Node.js) and deployed on Vercel.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Real-time messaging with instant updates
+- User authentication and registration
+- MongoDB database for message storage
+- Responsive React UI
+- Deployed seamlessly on Vercel
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React, CSS
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Deployment:** Vercel
+
+## Getting Started
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/EchoRoom.git
+    cd EchoRoom
+    ```
+2. **Install dependencies:**
+    ```bash
+    npm install
+    ```
+3. **Set up environment variables:**  
+    Create a `.env` file and add your MongoDB URI and any other required variables.
+4. **Run the app locally:**
+    ```bash
+    npm start
+    ```
+5. **Deploy:**  
+    Push your code to GitHub and connect the repo to Vercel for deployment.
+
+## Folder Structure
+
+```
+/client    # React frontend
+/server    # Express backend
+```
+
+## License
+
+This project is licensed under the MIT License.
