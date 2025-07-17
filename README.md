@@ -1,6 +1,7 @@
 # EchoRoom
 
-A real-time chat app built with the MERN stack (MongoDB, Express, React, Node.js) and deployed on Vercel.
+A real-time chat app built with the MERN stack (MongoDB, Express, React, Node.js) and deployed on Vercel. anyonce can genrate the code and join chat room
+
 
 ## Features
 
@@ -34,8 +35,6 @@ A real-time chat app built with the MERN stack (MongoDB, Express, React, Node.js
     ```bash
     npm start
     ```
-5. **Deploy:**  
-    Push your code to GitHub and connect the repo to Vercel for deployment.
 
 ## Folder Structure
 
@@ -44,6 +43,3 @@ A real-time chat app built with the MERN stack (MongoDB, Express, React, Node.js
 /server    # Express backend
 ```
 
-## License
-
-This project is licensed under the MIT License.
