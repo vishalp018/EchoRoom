@@ -1,6 +1,6 @@
 # EchoRoom
 
-A real-time chat app built with the MERN stack (MongoDB, Express, React, Node.js) and deployed on Vercel. anyonce can genrate the code and join chat room
+A real-time chat app built with the MERN stack (MongoDB, Express, React, Node.js) and deployed on Vercel. anyonce can genrate the code and join chat room . real time chat n file images sharing
 
 
 ## Features
