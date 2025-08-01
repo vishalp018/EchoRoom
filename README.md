@@ -42,4 +42,4 @@ A real-time chat app built with the MERN stack (MongoDB, Express, React, Node.js
 /client    # React frontend
 /server    # Express backend
 ```
-
+this repo tell n teaches about socket.io 
